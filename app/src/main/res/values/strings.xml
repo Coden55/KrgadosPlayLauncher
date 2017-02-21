@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KrgadosPlay Launcher</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="title_activity_configuration">Configuration</string>
+    <string name="title_activity_applications">Applications</string>
+    <string name="enable_auto_launch">Enable auto launch</string>
+
+</resources>
